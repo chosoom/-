@@ -1,0 +1,4 @@
+﻿  CalcDlg.cpp
+d:\c++_project\20190724\20190724\calcdlg.cpp(289): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  20190724.vcxproj -> D:\C++_project\20190724\Debug\20190724.exe
+  20190724.vcxproj -> D:\C++_project\20190724\Debug\20190724.pdb (Partial PDB)
